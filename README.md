@@ -29,9 +29,3 @@ Please implement it in Java. Any frameworks are accepted.
 3. Evidence of a BDD/TDD approach
 4. Clean, maintainable code adhering to SOLID principles
 
-##What we look for
-We are especially interested in how you structure your code. It should be fully testable and easy to be understood, extended and modified by others, and comply with the best object-oriented practices.
-
-**Please push your source code to GitHub, Bitbucket or other source control platforms, or just zip it and send it back to me.**
-
-Good luck!
